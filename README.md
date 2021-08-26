@@ -1,2 +1,4 @@
-### 수학 계산을 위한 코드를 제공하는 프로젝트
-1. caculate
+README
+안녕하세요 
+Hello world
+화이팅
